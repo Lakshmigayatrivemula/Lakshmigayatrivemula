@@ -71,6 +71,11 @@ Welcome to my GitHub profile! I'm a Bachelor of Computer Applications (BCA) stud
 - SQL and Database Management
 - Software Development
 - Technical and Interview Preparation
+### 🏆 Achievements
+Participated in CODE SPARK India 2025 – National-Level Coding and Innovation Hackathon.
+IBM SkillsBuild - Lifelong Professional Skills learned professional concepts .
+AWS – Cloud Practitioner Essentials Learned the fundamentals of cloud computing and AWS cloud services.
+TCS iON Career Edge - Young Professional learned about the topics of young professional.
 
 ### 🌐 Connect With Me
 
